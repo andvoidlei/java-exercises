@@ -15,7 +15,7 @@ public class ReverseString {
 
         String str = "";
         for (char a : s) {
-            System.out.println(a);
+            //System.out.println(a);
             str = String.valueOf(a) + str;
         }
 
